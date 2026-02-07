@@ -17,7 +17,6 @@
   <xs:include schemaLocation="../funding-reference/schema.xsd"/>
   <xs:include schemaLocation="../related-resource/schema.xsd"/>
   <xs:include schemaLocation="../distribution/schema.xsd"/>
-  xxx
   <xs:complexType name="dataset" sawsdl:modelReference="http://www.w3.org/ns/dcat#Dataset">
     <xs:annotation>
       <xs:documentation xml:lang="ar">
