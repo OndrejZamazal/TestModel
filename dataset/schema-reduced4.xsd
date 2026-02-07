@@ -13,6 +13,7 @@
   <xs:include schemaLocation="../terms-of-use/schema.xsd"/>
   <xs:include schemaLocation="../subject/schema.xsd"/>
   <xs:include schemaLocation="../description/schema.xsd"/>
+  <xs:include schemaLocation="../location/schema.xsd"/>
   <xs:complexType name="dataset" sawsdl:modelReference="http://www.w3.org/ns/dcat#Dataset">
     <xs:annotation>
       <xs:documentation xml:lang="ar">
